@@ -1,0 +1,34 @@
+# Macro Intelligence Briefing: Geopolitical Oil Squeeze
+
+**Speakers:** Gareth Saloway
+**Source:** VerifiedInvesting.com
+**Date:** March 05, 2026
+
+### **1. Key Themes**
+
+* **Oil Price Outlook:** Oil is trading at multi-year lows, with a 50% increase since the start of the year. The wedge pattern formation and squeeze in the market suggest a potential breakout.
+  - **Support:** "[Oil has had no inflation impact because it's trading at levels from five years ago.]"
+  - **Why it matters:** Understanding the pattern formation and squeeze can help traders make informed decisions about oil prices.
+* **Human Psychology in Trading:** The speaker highlights the importance of grounding oneself in logic and probability over emotions in trading.
+  - **Support:** "Gambler's mind is saying, oh, but what if, what if this happens?"
+  - **Why it matters:** Traders must be aware of their own emotions and biases to make rational decisions.
+* **Inflation and Oil Prices:** With inflation averaging 6-7% since COVID, oil's lack of inflation impact is significant. This suggests that oil should naturally be in the $70 range to keep pace with inflation.
+  - **Support:** "oils should naturally be in the $70 range just to be keeping pace with inflation."
+  - **Why it matters:** This understanding can help traders set realistic price targets for oil.
+
+### **2. Notable Quotes**
+
+- **"[Oil has had no inflation impact because it's trading at levels from five years ago]."** – Gareth Saloway
+- **"I'm going to start a short position here. I'll add here. I'll add here and I'll still have another add up here if it gets there."** – Gareth Saloway
+
+### **3. Market/Economic Implications**
+
+- **Short-term:** If oil prices reach $80 a barrel, the speaker will consider shorting it. However, if prices exceed $80, the trade may not be profitable.
+  - **Short-term:** The risk of war and its impact on oil prices is a consideration.
+- **Long-term:** The speaker's analysis suggests that oil prices may not reach extreme levels, as the US is a net exporter of oil and can adjust production to meet demand.
+
+### **4. Outlook & Questions**
+
+- **Watch for:** The potential for oil prices to reach $80 a barrel and the impact of the US's strategic reserve on oil prices.
+  - **Watch for:** The president's guarantee to guarantee the ships passing through the Strait of Hormuz, which could affect oil prices.
+- **Open question:** How will the US's actions on oil prices affect the market, and what are the potential risks and opportunities for traders?
