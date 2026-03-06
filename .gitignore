@@ -1,0 +1,17 @@
+# Audio source files — never commit raw downloads or working audio
+audio_raw.*
+audio.wav
+audio.webm
+audio.m4a
+
+# Only the final briefing audio (briefing.m4a) gets committed
+# Uncomment the line below if you want to exclude ALL audio from git
+# briefing.m4a
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
