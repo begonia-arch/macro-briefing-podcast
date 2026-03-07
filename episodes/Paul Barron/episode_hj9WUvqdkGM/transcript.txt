@@ -1,0 +1,410 @@
+ Let's get into prediction markets today.
+ We're gonna dive in deep.
+ I think you guys are gonna wanna stick around for this one
+ 'cause it could have a major effect
+ on how we are actually going into the market.
+ I wanna start with a couple of things.
+ As you guys probably saw,
+ we did a video yesterday with Matt Hogan, great guest.
+ And I asked him about being exposed to things like pre-stocks.
+ This, of course, is one of the things
+ when you look at private markets and the exposure
+ that you potentially could have,
+ things are starting to brew.
+ And even Matt said that he thought,
+ 'cause we pinned him down, he thought 5% exposure.
+ That's the kind of exposure you should have
+ in your portfolio as you diversify things.
+ So, some to the think about as we get out there,
+ if you look at the valuations on pre-stocks
+ when you talk about things like private markets,
+ you can take a look here at what we're talking about today,
+ which is gonna be calcium polymarket.
+ The market value right there, whether you like it
+ or not, calcium still leading the way.
+ Polymarket, neck and neck.
+ But I think this is gonna be a battle for the ages
+ as we start to see polymarket versus calcium.
+ If you're a sports guy,
+ then you're probably over on calcium.
+ If you're in crypto or on politics,
+ you're probably over on polymarket.
+ And I think that's the thing you're gonna be watching
+ right here on Dune Analytics just to give you an example.
+ There's calcium, of course, leading the way on sports.
+ But you can kinda see polymarket holding their own
+ when it comes to crypto and sports, really, not bad.
+ But I think this is the area right here
+ that we are gonna see polymarket explode again.
+ This, of course, will happen during the midterms.
+ Most likely we'll get a lot of activity on that.
+ That could open up a lot of opportunities
+ around prediction markets in general.
+ One note, though, is this right here.
+ Polymarket partnered with the NHL.
+ You can now trade with no fees, no house and no limits.
+ So, and that's one of the big factors, I think,
+ when you look at what prediction markets
+ has been able to do.
+ This is where I think polymarket wins the game.
+ Now, I'm not saying polymarket is not sponsor.
+ They're not paying us.
+ They don't ask me to say anything nice.
+ We just look at kind of the lay of the land.
+ And one of the things that got us a little off-kilter
+ was when calcium pulled a little bit of a rug on the market.
+ We'll talk about that in a minute.
+ But you can kinda see this website went up there.
+ They are pushing the DJNs, people that are in the trenches,
+ now over to polymarket and really making an even better case
+ for their number one competitor as we go out.
+ So, this is, I think, going to get a little bit worse
+ as we see things continue on.
+ And of course, remember, if you're on polymarket,
+ they're actually paying you some money on your money
+ when you're in there, calcium not doing that in terms of value.
+ So, that's another big issue in general.
+ One thing, too, if you look at where we are going to see
+ the no fee or the competitive fees going on,
+ you're going to see it in the agentic AI space.
+ And this is a very interesting visualization of this.
+ I want to kind of show you guys something.
+ This is basically AI's tracking down the best opportunity
+ where they can get the best deal.
+ And I want to hover over a few things here
+ when we get further out.
+ And you'll notice right there is Morpho.
+ Right there is Moonwell.
+ And there you go, Morpho seamless right there.
+ So, what it's looking for is the best.
+ There's Ave Morpho Universal, Euler Finance.
+ We cover all these guys.
+ The point is, is that fees matter.
+ And it's going to be huge going forward.
+ And we're going to get into a lot of that detail around this.
+ Before I do that, though, I want to showcase something
+ for you guys.
+ This is a clip of Chris Christie.
+ And as you guys know on this show,
+ a lot of times we just follow the money.
+ Pretty simple.
+ Follow the money.
+ You'll find out what's going on in the market.
+ Let me play this clip right here from Chris Christie.
+ They are not the house.
+ There is no house.
+ Yes, there is.
+ They're taking a cut.
+ It's the same thing.
+ If it walks like a duck and quacks like a duck, it's a duck.
+ If it quacks like a duck and it walks like a duck, it's a duck.
+ Chris Christie, defending the gambling cartels is who all call it.
+ And that is because Polymarket, CalChi, are both challenging status quo on that.
+ And I think prediction markets is going to be huge going forward.
+ So we wanted to bring on Ryan Van Grack, who is the VP of legal and global head of litigation over at Coinbase.
+ Great to have you, Ryan.
+ Great to be on, Parallel.
+ And thanks for taking the time to shed light on these very critical and timely issues.
+ Yeah.
+ So you saw Chris Christie there.
+ He's on a tear about this.
+ For sure.
+ What do you make of his position right now?
+ I would say he frames it wrong.
+ If it walks like an event contract and talks like an event contract, the opposition led by Chris Christie
+ is premise on a fundamental misunderstanding.
+ They keep setting this as deciding between a state regulator and no regulator.
+ But in fact, the real question is, if you're a derivative and event contract,
+ should you have a national derivatives regulator in the CFTC or be subject to a Patrick of 50 state regulators?
+ And federal statute makes very clear that it is the CFTC that governs in this space.
+ Yeah, well, you've had Selig go out and kind of talk about this very issue that he would stand ground
+ on any of this as we start to see states trying to kind of pop up and do this.
+ Paul Graywell, one of your colleagues kind of hit it right there on the head.
+ And he's talking about Chris Christie, you know way too much law to offer such a problem.
+ Federal law is what Congress says it is.
+ Not how it quacks.
+ I love that one.
+ Laws based on quacks is what we have what we got when we had an SEC chair by the name Gensler.
+ That was a big problem, you know, back then.
+ And of course, now is Chris Christie, the new Gensler for polymarket and Galshi.
+ Yeah, you know, Paul, I do think it does reinforce the problem of speaking in generalities.
+ Yeah.
+ So looking at facts and circumstances, one of the key flaws in that articulation is the fact
+ that there are very important differences between a sports book and a derivatives exchange.
+ And I like four, but I could certainly go on.
+ I know you've got time constraints.
+ So who you trade against in a sports book, you're trading and you're betting against the
+ House market, you're trading against other market participants.
+ The second are the incentive structures.
+ A sports book has an incentive for you to lose.
+ They only win if you don't make money.
+ Right.
+ They should market has an incentive for you to win because they're not trading against
+ you.
+ No.
+ The difference is price discovery.
+ A DCM has odds that are determined by market forces.
+ The price reflects the market views on the likelihood of something happening.
+ That's what makes these particularly valuable tools as a source for truth.
+ By contrast, the sports books themselves are the ones setting the odds.
+ So you don't have the insight from the collective.
+ And then a fourth point I'll throw in is that prediction markets allow you to enter and exit
+ positions at any point before it settles.
+ It's like a security and a commodity space, whereas sports books you typically are locked
+ in.
+ And Paul, I don't just highlight that because it happens to be true, but what is the
+ so what?
+ Okay.
+ So I've highlighted four differences.
+ Why does that matter?
+ Those differences are precisely why it makes sense for sports books to be regulated
+ one way in this instance by the states.
+ And prediction markets to be regulated another way by a federal regulator because those
+ regulatory regimes are tailored to those differences and concerns and let me explain.
+ Stay law protects consumers against casinos who have opposing interests.
+ Federal law is protecting parties by ensuring this market integrity on the exchanges so
+ that you're preventing fraud, manipulation in those transactions.
+ Those are two very different sets of concerns which require two very different sets of rules.
+ Yeah.
+ And we're going to get into the angle of insider trading, but I do agree with you is that
+ these are two different market structures and they should be organized a little different.
+ And I agree really in the sense that the CFTC should be in the position to where it kind
+ of governs what's going on within this.
+ With that being the case, and you look at the misstep that Kalshi made on the Iran contract
+ and this of course was the committee thing.
+ Here's Ben Geller.
+ He's talking a little bit about this right here.
+ And it was really just a committee out was the contract explained to me why that got sideways
+ and why everybody is so upset about this.
+ The controversy here is about the market rules of the contract.
+ It appears that some customers may have been confused about how the committee contract
+ would result.
+ As you know, it dealt with whether a committee would be out as a leader and the rules provided
+ that death was not a means by which the contract would be resolved.
+ But ultimately there was some confusion.
+ What we see happening is Kalshi has a process for reconciling contracts in these situations
+ and it's my understanding they've committed to reimbursing customers, think to the tunes
+ of a few million dollars.
+ It was notable Paul only because there were many customers who were grieved and upset.
+ But these are getting reconciled as you would expect in a DCM in exchange.
+ They have market rules, they have rule books, they disclose what they are and it has to
+ get reconciled in an orderly fashion.
+ Kalshi put out this tweet right here.
+ I'll zoom in on that for you guys.
+ Prior version of this clarification was grammatically ambiguous is what they're talking about.
+ As a customer service measure, Kalshi will reimburs lost value due to trades made between
+ these clarifications.
+ So it wasn't necessarily reimbursing the full intended amount that many of these traders
+ were dealing with.
+ So it was really more of a, you know, kind of throwing some water on the fire.
+ But my concern was this, when we first saw this was to me the brand damage had been done.
+ You have to remember that most of the people who are playing in prediction markets are what
+ we call, you know, trenches.
+ They're people that are out there in the trenches, they've been trading meme coins now, they're
+ moving to, you know, to prediction markets.
+ So this seems like it's just an automatic push of that audience right into the arms of
+ Polymarket.
+ Does Kalshi not see this?
+ Yeah, I can't speak for Kalshi, but I don't think it is unique for there to be debates or
+ discrepancies about how certain contracts can get resolved.
+ If I recall a year or two ago, there's an issue about whether I think Zelensky was wearing
+ a suit or not, the concern is not so much that controversies or discrepancies happen.
+ It's that whenever that occurs, it would make sense for those who are confused to be,
+ to feel aggrieved and upset about their expectations not being met.
+ I don't recall how the Zelensky matter was reconciled, but here it appears that Kalshi
+ is taking some steps to provide further clarification and at least reimbursing underscores.
+ I would have taken, I mean, this is just, you know, our opinion, you know, when you run
+ into a buzzsaw like this for Kalshi, they have the means to really go over the top.
+ And there's a couple of really good books out there and one that is all about hospitality
+ and over delivering on things.
+ And I think when you see services like this right here, this would have been a great opportunity
+ for Kalshi just to slam dunk on Polymarket.
+ If they'd have managed this correctly, it would have been a brand builder for them.
+ Maybe would have been the huge separation because they're lacking in being able to get
+ into the political angle where Polymarket has kind of won.
+ So I think this is going to be something to watch, for sure.
+ I want to go into some of these clarifications because many people are talking about these
+ death markets, you know, that have been out there, much like what was dealing with Kamehni.
+ You look at the current Polymarket right now, U.S. forces to enter Iran by this certain
+ date right now, the lead is by end of year, 60%.
+ Do you think that this is possibly considered a death market when you look at something like
+ this?
+ Is this considered a death market?
+ Well, you know, I do think it's important to make a distinction between U.S. regulated
+ markets and those that are not U.S. regulated or abroad.
+ The CFD has authority to regulate prediction markets under the Kamehni's Exchange Act.
+ And they have the authority to ban contracts they think are against public interest, which
+ can include war assassinations and the like.
+ It's my understanding that Kalshi's own rules, for example, prohibit contracts that are
+ connected or tied to death.
+ So there is a process by which those determinations are made in the U.S. for U.S. regulated markets.
+ What happens elsewhere on platforms outside of the U.S. that aren't regulated?
+ Different standard, different universe, different ecosystem.
+ What about social utility?
+ When you look at how a lot of the infrastructure is being built, most of the markets that are
+ being made within this, you look at Polymarket right now, politics leads the way.
+ But if you go to the breaking tab, you can kind of see there.
+ I mean, we've got the India's World Cup, the S&P 500, Yukon, one of your biggest rivals,
+ oh my God.
+ Right.
+ Whatever those numbers are in Yukon, I'm guessing they're too high.
+ But as a dual state, I will note, terms of the benefits from the prediction markets,
+ I think it's worth flagging two things in particular.
+ First of all, for your audience, consistent with crypto, these markets support economic
+ freedom and the democratization of finance.
+ They allow Americans to invest in topics in their expertise or in interests, which not
+ just eliminates barriers to Wall Street, but helps hedge risk, speculate, or engage in
+ price discovery.
+ And I'll focus on that last point because these prediction markets have proven to be very
+ powerful tools to overcome truth, right?
+ This decentralized, incentive-based market can help forecast event probabilities, and
+ that's because information is inherently more reliable when people have skinned the game.
+ Well, it's proven in the political arena, for sure.
+ I mean, if you look at, I think it's at the 538 block, which is Nate Silver.
+ Yeah, that was a good example of him and also a lot of these pollsters that were really
+ challenged in the last election, for sure.
+ That's right.
+ And people are most familiar with how it proved to outperform traditional election.
+ There's clear value in that.
+ In the months since, or maybe the year since, but we're also seeing a lot of news sites,
+ like CNN and beyond, partnering with these prediction markets.
+ Yes.
+ Are we utility?
+ Well, CNBC, they even announced it all the time.
+ That's right.
+ You literally see the headline because it's another source for unbiased truth.
+ But even more recently, the Federal Reserve issued a paper that found that prediction markets
+ provide a rich benchmark that is valuable for researchers, policymakers.
+ That is not a paper produced by Polly, Kalshi, or others.
+ That is the Federal Reserve independently finding that they're off ability from these prediction
+ markets.
+ Amazing.
+ An unmistakable fact.
+ Well, and it's getting to the point where you're going to see more and more integration.
+ And it brings me to the point of insider trading, the issue of what someone may know.
+ I want to play a clip.
+ This, of course, is Scott Galloway, Prof. G, who talks about this.
+ He is kind of emerged as a very anti prediction market voice.
+ Listen to this clip.
+ All it takes is what, $15,000 to sort of drive up the spike in the market.
+ Everyone's going to say, "Huh, what does somebody in Bangladesh know about the Bangladesh
+ Prime Minister?"
+ They can drive a news cycle.
+ They can drive a political cycle, a potential actual ouster of the Bangladeshi Prime Minister,
+ just with like $15,000 on Polly Market, a harm, and more wars, more destruction, more
+ death, whatever, happening because of the availability to gamble on the outcomes.
+ All right.
+ That's a profitee show, wasn't Professor Galloway, but he has come out on this before a couple
+ of times.
+ That statement right there, I mean, how would you argue that?
+ Insider trading is not a new or unique phenomenon to financial markets.
+ It exists in securities markets.
+ It has long existed in the rivet of markets.
+ The CFTC has existing rules that parties must comply with when it comes to insider trading.
+ They're insider trading rules prohibit the trading on material, not public information
+ and breach of a duty.
+ What's important and it was often missed in this discussion, Paul, is that there are multiple
+ levels of protection where you are trading on a U.S. federally regulated marketplace.
+ Just as there are in the securities markets, for example, you've got exchange level protections.
+ You've got civil protections from the CFTC.
+ You even have criminal protections from the Department of Justice.
+ And collectively, they are equipped and have a long history of policing this space.
+ And I think it's not just that the CFTC is uniquely capable of doing it, but we see very
+ recently efforts by Kowshi as a DCM and also by the CFTC to make very clear that they
+ are policing this market space. Kowshi disciplines two of their traders and find them thousands
+ of dollars for engaging in conduct that it deems to be manipulative and fraudulent.
+ And the CFTC is now investigating those same matters.
+ Okay.
+ So let's kind of paint a picture here.
+ If we do see state level guidance or if the states win, if they go against the CFTC and
+ you end up prediction markets at the state level, would that end up putting these new
+ OB/BBA gambling rules into place where you're literally paying taxes on your losses?
+ One of my virtues, Paul, is not being a tax lawyer, so I can't give advice.
+ But what I will say is one of the reasons that 50 years ago, Congress gave exclusive
+ jurisdiction to the CFTC to prevent a fragmented regulatory structure where entities that
+ are participating in the derivative space are subject to 50 different rules and regulations.
+ There was long attention historically, Paul, it dates back 100 years ago where certain
+ derivatives activities was regulated concurrently by the states and the federal government.
+ That experiment failed. It created chaos. And so about 50 years ago, Congress amended
+ the commodity exchange act to give exclusive jurisdiction.
+ And so every market participant, not just the cow cheese and the polys in the coin bases,
+ but anyone who's on these platforms should want uniform rules and regulations, not just
+ because it creates certainty, Paul, but also you worry about a race to the bottom because
+ if you have 50 different rules and regulations, you don't you worry about regulatory arbitrage
+ and different states with different interests having rules that actually aren't in customers
+ or investors' best interest.
+ Yeah, well, I think this is going to, listen, it's all playing out in front of us right
+ now. Of course, along with everything else that's crypto related because, you know, our
+ Congress and our laws have never been really built around a digital ecosystem like this.
+ So of course, it's going to go there. I want to run a lightning round with you. This
+ is our legal addition. One, my first one right here is Casino Lobby will wait until after
+ Trump, his, his term here to take on Calci in the Supreme Court. Do you think they will?
+ And I think a lot of the cases that are already in the system are working through the appellate
+ process and I think if they go to the Supreme Court, it would be during Trump's term.
+ During Trump. So you're going to be on no, I did not know that. So I'm going to bank with
+ you predicting Gatorade color is not, he is not useful to society. Therefore, it should
+ be treated negative by government. What do you think fair to say that that doesn't appear
+ to have potential financial consequences. So I'm fine into the know. Yeah, I'm agreeing
+ with with with the proposition. Probably market has a better legal argument because it doesn't
+ collect fees. What do you think in terms of this whole argument? I'm not sure how that
+ necessarily plays a role in the discussions. And I, I don't, I'm not aware of that being
+ a meaningful determinant as to whether or not something is a swap. Fundament, it meets
+ a definition. It is in bounds, the CFDC regulates it. It's not a swap. It's out of bounds.
+ So I don't think that has a material impact on the legal argument. Perfect. States writes,
+ the argument has successfully destroyed legal gambling for users in the US, do you think?
+ People are conflating these ecosystems, which we talked about. They can coexist. There's
+ nothing that's preventing state gambling laws to regulate sports books and sports operate.
+ So I think we have to start appreciating these universes can and should coexist. So exist,
+ yeah. So really not doesn't really cause any issues. All right. Let's move into retail
+ thinks insider trading and market manipulation. Now the crackdown in tradfi is better than
+ what's happening in DeFi because DeFi feels like it's a little bit of a wild west right
+ now. Yeah. What I would say is insider trading and market manipulation rules. And this
+ is from securities ecosystem beyond. Certainly have more experience and precedent in the
+ tradfi space. So in that regard, it would be further along. But similar concepts should
+ apply in terms of whether it's material, not public information. And what are your duty
+ and obligations? Yeah. I think it's kind of the middle of the road right now because there's
+ not enough, first of all, there's not enough case law to be even deal with this. I haven't
+ seen anything on insider trading on this outside of occasional scenarios. And until we have
+ most of the regulatory framework in place, you're not going to have it. So other than what
+ the Supreme Court has ruled in already, what will end up being more popular by top degen's
+ calcium coin base app or polymarket on the base app? Anything that's on coin base or
+ base app is a winner. So I'm going with the base app. I think polymarket over there.
+ In the middle. Right. Win way. Right. So I'm going with base, though. I think polymarket
+ wins that one. Is there a legal difference between social utility and entertainment consumption?
+ For purposes of these issues, the answer is no. The question is not social utility or
+ entertainment consumption. It is whether there are potential economic, financial or commercial
+ consequences. And I think it is a stretch to suggest things like sports or even entertainment
+ don't have significant potential financial consequences. So would you say no? For purposes
+ of these matters, I think the answer is no. No. Some of these guys I'm not answering because
+ I'm obviously not a lawyer. So I would refer to that. Oil market and Palantir stock stock
+ is a war death market. I don't know what the term death market is meant to suggest, but
+ I do think the oil market and Palantir stock. No one is suggesting or debating that those
+ things shouldn't be traded. There are various marketplaces. The fact that you have war
+ like activity going on. It doesn't suggest to me that you should be shutting down the
+ marketplace. I think it's important for people to have. It would be the case if you were
+ betting on any of the defense stocks to do a certain level, you know, the same kind
+ of scenario. States and family values, Republicans are totally fine with gambling as long as
+ they take a cut from the list. And I don't write all of these questions just so you know.
+ Yeah, I'm staying. I'm not quite sure the question is getting out. I don't want to speak
+ for others, but that seems like a loaded question. Yeah. I'm with you. I'll pass on that one.
+ It would be a timely, ultimately pointless for Palantir market to launch in the US given
+ this climate right now. Palantir is very much in this litigation and this fight. They're
+ actively engaged in these lawsuits. I can only suppose given the briefs they're filing
+ and actions they're taking. They very much believe in their positions just like Coinbase
+ and Calci do. So I don't see any indication or reason why the litigation and that's going
+ on would would has deterred them from pursuing their. Yeah. I think they have to. I think
+ the market is too big in the United States. Palantir market has such an opportunity here.
+ And when you look at the amount that ISIS put into Palantir market, this is a huge, huge
+ play for them in terms of the US, for sure. All right. Last one, bottom line, invest in
+ VPNs because a lot of people are out there saying I'm just doing it this way. Paul, this
+ is the benefit of being a lawyer is I don't have to weigh in it all on. I have a different
+ line of work. I'm going to say yes. I'll let you defer out. Easiest way to stop Chris Christie.
+ What do you think? Easiest way to stop Chris Christie is through platforms like yours to
+ separate fact from fiction. All right. There you go. At the end of the day, facts in
+ the law will prevail. And that's the best way to address it. As you could see guys,
+ we like to have fun with these questions on the lighting around. Many of them come in
+ from our audience. You guys have some ideas for some of these, but listen, it's been great
+ having you on today. Thank you so much for coming in. We appreciate it, Ryan. Thanks,
+ Paul. Really appreciate the time.
+ If you liked this video, hit like and subscribe. Drop a comment down below and also join our
+ free private member group, the link is in the description.
